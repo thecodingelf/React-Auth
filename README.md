@@ -1,6 +1,6 @@
 # React-Auth
 
-## List of albums
+## Simple Auth
 
 Simple authentication app with Firebase as database. User can login which also register the user to the database.
 Also the user can sign out from the application.
